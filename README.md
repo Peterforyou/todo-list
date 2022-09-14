@@ -20,7 +20,7 @@ This is a Todo-list
 
 ### Links
 
-- Live Site URL:(https://peterforyou.github.io/my-portfolio/)
+- Live Site URL:(https://peterforyou.github.io/todo-list/)
 
 ### Built with
 
